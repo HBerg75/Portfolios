@@ -5,9 +5,11 @@ import Tittle from '../Components/Tittle'
 import portfolios from '../Components/allportfolios'
 import {useState} from 'react'
 
+const allCategories = ['All', ...new Set(portfolios.map(item => item.category))];
+
 function PortfoliosPage() {
-    const [categories, setCategories] = useState(null)
-    const [menuItems, setMenuItems] = useState(portfolios)
+    const [categories, setCategories] = useState(allCategories);
+    const [menuItems, setMenuItems] = useState(portfolios);
 
     const filter = (category) =>{
         if(category === 'All'){
@@ -19,6 +21,7 @@ function PortfoliosPage() {
         })
         setMenuItems(filteredData);
     }
+
     return (
         <div id="PortfolioPage">
             <div className="title">
