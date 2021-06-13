@@ -1,0 +1,56 @@
+// .SkillsSection{
+
+// }
+
+// .skills-container{
+//     .skills-title{
+        
+//     }
+// }
+.icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem 0;
+    .icon-holder {
+        margin-right: 1rem;
+        .icon {
+            font-size: 2.8rem;
+            color: #a4acc4;
+            transition: all .4 ease-in-out;
+        }
+        // .fb:hover {
+        //     color: blue;
+        // }
+        // .inst:hover {
+        //     color: rgb(243, 89, 205);
+        // }
+        .Js:hover {
+            color: rgb(255, 251, 0);
+        }
+        .Node:hover {
+            color: rgb(0, 177, 29);
+        }
+        .React:hover {
+            color: rgb(50, 200, 226);
+        }
+        .Php:hover {
+            color: rgb(62, 87, 201);
+        }
+        .Symf:hover {
+            color: rgb(255, 255, 255);
+        }
+        .Lara:hover {
+            color: rgb(255, 0, 0);
+        }
+        .Html:hover {
+            color: rgb(192, 89, 4);
+        }
+        .Css:hover {
+            color: rgb(71, 81, 221);
+        }
+        .Sass:hover {
+            color: rgb(204, 36, 162);
+        }
+    }
+}
