@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Portfolios/static/css/main.0ea19b79.chunk.css",
-    "main.js": "/Portfolios/static/js/main.a9bd811e.chunk.js",
-    "main.js.map": "/Portfolios/static/js/main.a9bd811e.chunk.js.map",
-    "runtime-main.js": "/Portfolios/static/js/runtime-main.b2701cdd.js",
-    "runtime-main.js.map": "/Portfolios/static/js/runtime-main.b2701cdd.js.map",
-    "static/js/2.79518fba.chunk.js": "/Portfolios/static/js/2.79518fba.chunk.js",
-    "static/js/2.79518fba.chunk.js.map": "/Portfolios/static/js/2.79518fba.chunk.js.map",
-    "static/js/3.e6c26117.chunk.js": "/Portfolios/static/js/3.e6c26117.chunk.js",
-    "static/js/3.e6c26117.chunk.js.map": "/Portfolios/static/js/3.e6c26117.chunk.js.map",
+    "main.js": "/Portfolios/static/js/main.4e4500a7.chunk.js",
+    "main.js.map": "/Portfolios/static/js/main.4e4500a7.chunk.js.map",
+    "runtime-main.js": "/Portfolios/static/js/runtime-main.ae87eacb.js",
+    "runtime-main.js.map": "/Portfolios/static/js/runtime-main.ae87eacb.js.map",
+    "static/js/2.5943b74b.chunk.js": "/Portfolios/static/js/2.5943b74b.chunk.js",
+    "static/js/2.5943b74b.chunk.js.map": "/Portfolios/static/js/2.5943b74b.chunk.js.map",
+    "static/js/3.3b487650.chunk.js": "/Portfolios/static/js/3.3b487650.chunk.js",
+    "static/js/3.3b487650.chunk.js.map": "/Portfolios/static/js/3.3b487650.chunk.js.map",
     "index.html": "/Portfolios/index.html",
     "static/css/main.0ea19b79.chunk.css.map": "/Portfolios/static/css/main.0ea19b79.chunk.css.map",
-    "static/js/2.79518fba.chunk.js.LICENSE.txt": "/Portfolios/static/js/2.79518fba.chunk.js.LICENSE.txt",
+    "static/js/2.5943b74b.chunk.js.LICENSE.txt": "/Portfolios/static/js/2.5943b74b.chunk.js.LICENSE.txt",
     "static/media/CVYanis.cc6f8269.pdf": "/Portfolios/static/media/CVYanis.cc6f8269.pdf",
     "static/media/avatar.bdabdd3d.jpg": "/Portfolios/static/media/avatar.bdabdd3d.jpg",
     "static/media/profilimg.e46d601e.jpg": "/Portfolios/static/media/profilimg.e46d601e.jpg",
@@ -19,9 +19,9 @@
     "static/media/snapchat.8add587f.png": "/Portfolios/static/media/snapchat.8add587f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2701cdd.js",
-    "static/js/2.79518fba.chunk.js",
+    "static/js/runtime-main.ae87eacb.js",
+    "static/js/2.5943b74b.chunk.js",
     "static/css/main.0ea19b79.chunk.css",
-    "static/js/main.a9bd811e.chunk.js"
+    "static/js/main.4e4500a7.chunk.js"
   ]
 }
