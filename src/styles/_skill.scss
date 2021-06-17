@@ -1,17 +1,20 @@
-// .SkillsSection{
+.SkillsSection{
+    width: 100%;
+}
 
-// }
-
-// .skills-container{
-//     .skills-title{
-        
-//     }
-// }
+.skills-container{
+    width: 100%;
+    .skills-title{
+        font-size: 1.4rem;
+        font-weight: 400;
+    }
+}
 .icons {
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 1.5rem 0;
+    flex-wrap: wrap;
     .icon-holder {
         margin-right: 1rem;
         .icon {
